@@ -14,12 +14,12 @@ TODO
 
 ## Getting Started
 
-- Clone the GitHub project on to your local machine 
-- Navigate in to the 
+- Clone the GitHub project on to your local machine
+- Navigate in to the
 - Open the project in VSCode
 - Open the `index.html` file in ypur default browser
-```
 
+```
 git clone git@github.com:Hakkelo89/homework-week-1.git
 cd homework-week-1
 code .
@@ -27,7 +27,7 @@ code .
 
 ## Secreenshots
 
-Inline-style: 
+Inline-style:
 ![alt text](link here"Logo Title Text 1")
 
 ### Before Refactor
@@ -37,6 +37,3 @@ TODO
 ### After Refactor
 
 TODO
-
-
-
