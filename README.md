@@ -17,12 +17,13 @@ TODO
 - Clone the GitHub project on to your local machine 
 - Navigate in to the 
 - Open the project in VSCode
-- Open the 'index.html' file in ypur default browser
-...
-git clone git@github.com:hakkelo89/homework-week-1.git
+- Open the `index.html` file in ypur default browser
+```
+
+git clone git@github.com:Hakkelo89/homework-week-1.git
 cd homework-week-1
 code .
-...
+```
 
 ## Secreenshots
 
