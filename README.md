@@ -27,8 +27,7 @@ code .
 
 ## Secreenshots
 
-Inline-style:
-![alt text](link here"Logo Title Text 1")
+![image before refactor](./assets/images/website-before-refactor.png "Website before refactor")
 
 ### Before Refactor
 
