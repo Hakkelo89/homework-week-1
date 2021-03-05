@@ -32,12 +32,10 @@ code .
 
 ## Secreenshots
 
-![image before refactor](./assets/images/website-before-refactor.png "Website before refactor")
-
 ### Before Refactor
 
-TODO
+![image before refactor](./assets/images/website-before-refactor.png "Website before refactor")
 
 ### After Refactor
 
-TODO
+![image after refactor](./assets/images/website-after-refactor.png "Website after refactor")
