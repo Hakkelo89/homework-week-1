@@ -2,7 +2,7 @@
 
 ## Project link
 
-Click [here](TODO) to view project on GitHub pages
+Click [here](https://hakkelo89.github.io/homework-week-1/) to view project on GitHub pages
 
 ## Description
 
