@@ -22,7 +22,7 @@ AS A marketing agency we were tasked to refactor the webpage by Horiseon by addi
 - Clone the GitHub project on to your local machine
 - Navigate in to the
 - Open the project in VSCode
-- Open the `index.html` file in ypur default browser
+- Open the `index.html` file in your default browser
 
 ```
 git clone git@github.com:Hakkelo89/homework-week-1.git
